@@ -1,0 +1,14 @@
+.container{
+	display: flex;
+	justify-content: center;
+	margin: 100px 0 0;
+}
+.date{
+	margin-right: 20px;
+}
+.text_output{
+	display: flex;
+	justify-content: center;
+	margin: 15px 100px 0 0;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */
